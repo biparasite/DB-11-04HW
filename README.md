@@ -200,7 +200,7 @@ Flag: virtual_host_metadata, state: enabled
 $ rabbitmqadmin get queue='hello'
 ```
 
-![rabbitmqadmin](https://github.com/biparasite/DB-11-04HW/blobs/main/rabbitmqadmin.png)
+![rabbitmqadmin](https://github.com/biparasite/DB-11-04HW/blob/main/rabbitmqadmin.png)
 
 После чего попробуйте отключить одну из нод, желательно ту, к которой подключались из скрипта, затем поправьте параметры подключения в скрипте consumer.py на вторую ноду и запустите его.
 
