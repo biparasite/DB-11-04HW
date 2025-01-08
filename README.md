@@ -206,6 +206,6 @@ $ rabbitmqadmin get queue='hello'
 
 Приложите скриншот результата работы второго скрипта.
 
-![rabbitmqadmin](https://github.com/biparasite/DB-11-04HW/blobs/main/rabbitmqadmin.png)
+![rabbitmqadmin](https://github.com/biparasite/DB-11-04HW/blobs/main/down_rmq1.png)
 
 ---
